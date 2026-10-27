@@ -1,0 +1,6 @@
+{
+  "name": "aricup-2026-youth",
+  "private": true,
+  "description": "2026 과천아리컵 유소년부 대회 안내 · 실시간 결과 웹앱",
+  "engines": { "node": ">=18" }
+}
